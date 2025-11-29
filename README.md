@@ -112,12 +112,19 @@ plt.show()
 ```
    __Tabulation__:
 
-<img width="616" height="891" alt="image" src="https://github.com/user-attachments/assets/44ba68c2-6064-4c29-809f-5b1b42dc0d47" />
+<img width="459" height="700" alt="image" src="https://github.com/user-attachments/assets/7f35fe82-40bc-4e98-9a89-81c67a89a532" />
+
+Calculation:
+
+<img width="443" height="697" alt="image" src="https://github.com/user-attachments/assets/2208c5c0-c8f0-4b75-a89c-29b8811a5866" />
+
 
    __Output__:
 
-<img width="481" height="918" alt="image" src="https://github.com/user-attachments/assets/74cca082-a344-441f-8348-193a6e54ad40" />
+<img width="849" height="593" alt="image" src="https://github.com/user-attachments/assets/82f15c22-41ad-4906-9b37-b1171e056d3a" />
 
    __Result__:
 
-<img width="579" height="879" alt="image" src="https://github.com/user-attachments/assets/9d103a04-b528-49d1-8b81-857fc5ff6da3" />
+<img width="694" height="352" alt="image" src="https://github.com/user-attachments/assets/8d9f1239-9959-4cf7-8af2-1fa6c6a05439" />
+
+
